@@ -1,0 +1,16 @@
+package com.cognizant.vrsutility;
+
+public enum VehicleType {
+	CAR,BUS,SUV;
+	
+	private int discount;
+	
+	VehicleType(int discount){
+		this.discount = discount;
+	}
+	
+	public int getDiscount() {
+		return discount;
+	}
+
+}

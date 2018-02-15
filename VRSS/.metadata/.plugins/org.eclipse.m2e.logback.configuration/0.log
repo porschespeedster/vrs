@@ -1,0 +1,639 @@
+2017-12-20 10:10:36,609 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-12-20 10:34:13,632 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-12-20 10:34:13,984 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-12-20 10:34:14,285 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-12-20 10:34:14,606 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-12-20 10:35:03,011 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\pom.xml
+2017-12-20 10:35:16,072 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: VehicleRentalSystem:vrs:0.0.1-SNAPSHOT @ C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\pom.xml.
+2017-12-20 10:35:18,148 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vrs/src/main/java
+2017-12-20 10:35:18,176 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /vrs/src/test/java
+2017-12-20 10:35:21,605 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2017-12-20 10:35:22,390 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:35:22,391 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:35:22,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:35:22,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:36:00,833 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: VehicleRentalSystem:vrs:0.0.1-SNAPSHOT @ C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\pom.xml.
+2017-12-20 10:36:01,344 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:36:01,344 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:36:01,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:36:01,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:41:59,346 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: VehicleRentalSystem:vrs:0.0.1-SNAPSHOT @ C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\pom.xml.
+2017-12-20 10:42:01,149 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.pom
+2017-12-20 10:42:01,523 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.pom
+2017-12-20 10:42:01,932 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar
+2017-12-20 10:42:07,385 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3.jar
+2017-12-20 10:42:08,848 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:42:08,849 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:42:08,853 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:42:08,854 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:42:10,130 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:42:10,131 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:42:10,133 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:42:10,134 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:42:36,947 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:42:36,949 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:42:36,953 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:42:36,954 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:43:44,639 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:44,639 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:43:44,642 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:44,643 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:43:45,710 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:45,711 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:43:45,714 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:45,714 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:43:53,120 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:53,120 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:43:53,121 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:53,121 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:43:59,925 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:59,925 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:43:59,935 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:43:59,935 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:44:54,502 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:44:54,502 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:44:54,512 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:44:54,512 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:44:59,999 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:44:59,999 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:45:00,009 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:45:00,009 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:46:54,244 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:46:54,244 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:46:54,254 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:46:54,254 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:47:21,547 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:47:21,547 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:47:21,547 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:47:21,557 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:48:43,044 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:48:43,044 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:48:43,054 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:48:43,054 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:48:50,099 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:48:50,109 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:48:50,109 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:48:50,109 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:50:44,607 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:50:44,607 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:50:44,617 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:50:44,617 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:50:56,727 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:50:56,727 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:50:56,737 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:50:56,737 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:51:12,189 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:12,189 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:51:12,199 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:12,199 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:51:35,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:35,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:51:35,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:35,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:51:45,209 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:45,209 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:51:45,209 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:45,219 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:51:55,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:55,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:51:55,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:51:55,479 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:52:22,119 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:52:22,119 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:52:22,119 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:52:22,119 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:52:53,770 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:52:53,770 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:52:53,770 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:52:53,780 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:53:03,294 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:53:03,294 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:53:03,294 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:53:03,294 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:53:42,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:53:42,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:53:42,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:53:42,204 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:54:27,276 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:27,276 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:54:27,276 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:27,286 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:54:41,838 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:41,838 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:54:41,838 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:41,838 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:54:52,138 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:52,138 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:54:52,148 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:52,148 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:54:56,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:56,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:54:56,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:54:56,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:55:34,740 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:55:34,740 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:55:34,740 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:55:34,740 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:55:45,800 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:55:45,800 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:55:45,810 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:55:45,810 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:55:57,392 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:55:57,392 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:55:57,402 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:55:57,402 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:56:50,963 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:56:50,963 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:56:50,963 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:56:50,963 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:57:12,363 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:57:12,363 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:57:12,363 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:57:12,373 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:58:15,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:58:15,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:58:15,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:58:15,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 10:59:17,038 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:59:17,038 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 10:59:17,038 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 10:59:17,038 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:00:49,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:00:49,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:00:49,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:00:49,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:01:18,083 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:01:18,083 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:01:18,083 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:01:18,083 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:02:48,174 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:02:48,174 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:02:48,174 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:02:48,174 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:02:58,054 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:02:58,054 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:02:58,064 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:02:58,064 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:03:19,865 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:03:19,865 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:03:19,865 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:03:19,865 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:04:01,437 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:04:01,437 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:04:01,447 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:04:01,447 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:06:11,209 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:06:11,209 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:06:11,209 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:06:11,209 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:06:19,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:06:19,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:06:19,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:06:19,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:08:07,792 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:08:07,792 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:08:07,792 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:08:07,792 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:08:52,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:08:52,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:08:52,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:08:52,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:12:44,864 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:12:44,864 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:12:44,864 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:12:44,864 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:14:17,870 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:14:17,870 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:14:17,880 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:14:17,880 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:14:56,526 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:14:56,526 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:14:56,536 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:14:56,536 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:15:29,975 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:15:29,975 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:15:29,975 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:15:29,975 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:15:57,829 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:15:57,829 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:15:57,839 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:15:57,839 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:16:10,085 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:16:10,085 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:16:10,085 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:16:10,085 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:16:18,316 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:16:18,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:16:18,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:16:18,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:16:27,987 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:16:27,987 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:16:27,997 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:16:27,997 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:27:09,923 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:27:09,923 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:27:09,923 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:27:09,923 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:27:53,174 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:27:53,174 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:27:53,184 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:27:53,184 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:28:09,356 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:28:09,356 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:28:09,356 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:28:09,356 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:28:32,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:28:32,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:28:32,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:28:32,784 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:29:27,229 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:29:27,229 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:29:27,229 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:29:27,229 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:29:34,369 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:29:34,369 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:29:34,379 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:29:34,379 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:29:42,639 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:29:42,639 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:29:42,639 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:29:42,639 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:30:00,519 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:30:00,519 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:30:00,519 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:30:00,519 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:30:19,732 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:30:19,732 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:30:19,732 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:30:19,742 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:30:29,944 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:30:29,964 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:30:29,984 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:30:29,984 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:31:30,922 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:31:30,922 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:31:30,922 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:31:30,922 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:33:07,361 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:33:07,371 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:33:07,501 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:33:07,501 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:34:01,605 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:34:01,605 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:34:01,605 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:34:01,615 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:52:54,238 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:52:54,238 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:52:54,248 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:52:54,248 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:53:06,047 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:06,057 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:53:06,057 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:06,057 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:53:31,262 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:31,272 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:53:31,272 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:31,272 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:53:45,263 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:45,263 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:53:45,263 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:45,263 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:53:55,459 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:55,459 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:53:55,459 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:53:55,459 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 11:56:54,635 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:56:54,635 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 11:56:54,635 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 11:56:54,635 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:00:48,814 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:00:48,814 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:00:48,814 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:00:48,814 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:03:39,658 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:03:39,658 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:03:39,668 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:03:39,668 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:39:19,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:39:19,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:39:19,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:39:19,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:39:44,556 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:39:44,556 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:39:44,566 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:39:44,566 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:41:10,076 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:41:10,076 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:41:10,076 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:41:10,076 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:41:13,846 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:41:13,846 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:41:13,846 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:41:13,846 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:41:48,448 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:41:48,458 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:41:48,458 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:41:48,458 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:42:06,148 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:42:06,158 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:42:06,158 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:42:06,158 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:42:15,229 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:42:15,229 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:42:15,229 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:42:15,229 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:43:55,854 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:43:55,854 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:43:55,854 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:43:55,854 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:45:02,393 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:45:02,393 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:45:02,403 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:45:02,403 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:46:25,966 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:46:25,966 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:46:25,966 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:46:25,966 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:46:56,367 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:46:56,367 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:46:56,367 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:46:56,367 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 12:55:24,740 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:55:24,740 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 12:55:24,750 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 12:55:24,750 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:45:50,593 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:45:50,593 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:45:50,593 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:45:50,593 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:46:08,798 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:46:08,798 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:46:08,798 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:46:08,798 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:47:05,075 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:47:05,075 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:47:05,075 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:47:05,075 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:47:54,680 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:47:54,680 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:47:54,680 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:47:54,680 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:48:01,269 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:48:01,269 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:48:01,279 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:48:01,279 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:48:39,974 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:48:39,974 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:48:39,984 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:48:39,984 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:52:55,537 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:52:55,537 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:52:55,540 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:52:55,541 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:54:00,360 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:54:00,360 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:54:00,370 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:54:00,370 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:54:50,667 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:54:50,667 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:54:50,677 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:54:50,677 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:54:56,589 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:54:56,589 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:54:56,589 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:54:56,589 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:55:01,761 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:01,771 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:55:01,771 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:01,771 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:55:07,530 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:07,530 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:55:07,540 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:07,540 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:55:36,461 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:36,461 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:55:36,461 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:36,461 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:55:50,110 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:50,110 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:55:50,110 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:50,110 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:55:55,440 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:55,440 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:55:55,440 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:55:55,440 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:56:10,949 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:56:10,949 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:56:10,949 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:56:10,949 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 13:57:04,514 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:57:04,514 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 13:57:04,524 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 13:57:04,524 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:06:08,624 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:06:08,624 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:06:08,634 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:06:08,634 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:06:29,162 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:06:29,162 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:06:29,162 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:06:29,172 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:06:49,282 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:06:49,292 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:06:49,292 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:06:49,292 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:10:41,213 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:10:41,213 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:10:41,213 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:10:41,213 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:10:56,632 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:10:56,632 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:10:56,642 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:10:56,642 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:11:05,592 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:11:05,602 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:11:05,602 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:11:05,602 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2017-12-20 14:12:23,670 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:12:23,680 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2017-12-20 14:12:23,680 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-20 14:12:23,680 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-29 15:48:19,949 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-30 11:02:48,063 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-30 12:37:36,570 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-30 12:41:28,084 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:41:28,086 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 12:41:28,091 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:41:28,092 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 12:43:36,357 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:43:36,358 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 12:43:36,361 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:43:36,362 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 12:44:56,800 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:44:56,801 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 12:44:56,807 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:44:56,808 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 12:51:19,430 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:51:19,431 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 12:51:19,436 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:51:19,438 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 12:51:45,726 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:51:45,734 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 12:51:45,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:51:45,739 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 12:52:33,776 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:52:33,777 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 12:52:33,781 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 12:52:33,782 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:01:51,749 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:01:51,750 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:01:51,755 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:01:51,756 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:11:05,120 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:11:05,122 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:11:05,130 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:11:05,131 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:11:22,278 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:11:22,279 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:11:22,281 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:11:22,282 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:13:50,791 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:13:50,793 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:13:50,802 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:13:50,803 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:14:01,536 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:01,537 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:14:01,540 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:01,541 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:14:08,725 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:08,825 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:14:08,838 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:08,839 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:14:16,652 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:16,654 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:14:16,659 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:16,660 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:14:36,399 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:36,399 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:14:36,401 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:36,402 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:14:43,806 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:43,807 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:14:43,809 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:43,810 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:14:50,938 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:50,938 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:14:50,948 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:14:50,948 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:16:30,239 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:16:30,240 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:16:30,244 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:16:30,245 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:17:21,863 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:17:21,863 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:17:21,866 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:17:21,868 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:17:35,780 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:17:35,781 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:17:35,786 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:17:35,787 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:17:42,062 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:17:42,062 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:17:42,066 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:17:42,067 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:18:33,443 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:18:33,444 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:18:33,448 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:18:33,449 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:21:43,576 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:21:43,577 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:21:43,579 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:21:43,580 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:24:10,538 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:24:10,539 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:24:10,543 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:24:10,545 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 13:31:02,709 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:31:02,710 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 13:31:02,714 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 13:31:02,715 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 14:28:37,552 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:28:37,554 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 14:28:37,558 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:28:37,559 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 14:29:56,235 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:29:56,235 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 14:29:56,238 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:29:56,239 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 14:36:31,186 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:36:31,187 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 14:36:31,191 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 14:36:31,192 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:32:27,046 [Worker-17] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-30 17:35:26,798 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:35:26,798 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:35:26,801 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:35:26,801 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:44:51,184 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:44:51,185 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:44:51,188 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:44:51,188 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:45:06,339 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:45:06,340 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:45:06,346 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:45:06,347 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:45:24,423 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:45:24,424 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:45:24,428 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:45:24,430 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:45:47,789 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:45:47,790 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:45:47,794 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:45:47,796 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:46:50,893 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:46:50,895 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:46:50,899 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:46:50,900 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:47:45,385 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:47:45,386 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:47:45,391 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:47:45,392 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:48:37,420 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:48:37,424 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:48:37,432 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:48:37,433 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 17:49:48,160 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:49:48,161 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 17:49:48,164 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 17:49:48,165 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 18:16:01,448 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 18:16:01,450 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 18:16:01,453 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 18:16:01,454 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-30 18:19:18,408 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 18:19:18,408 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-30 18:19:18,413 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-30 18:19:18,414 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-31 12:41:34,553 [Worker-30] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-31 12:42:38,983 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 12:42:38,984 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-31 12:42:38,990 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 12:42:38,990 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-31 13:07:59,830 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:07:59,831 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-31 13:07:59,836 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:07:59,836 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-31 13:09:03,738 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:09:03,739 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-31 13:09:03,743 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:09:03,744 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-31 13:09:22,452 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:09:22,453 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-31 13:09:22,457 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:09:22,458 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-01-31 13:10:54,014 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:10:54,015 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\main\resources
+2018-01-31 13:10:54,020 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 13:10:54,022 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cts1\eclipse-workspace\VehicleRentalSystem\vrs\src\test\resources
+2018-02-06 12:22:15,966 [Worker-26] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-06 18:02:46,083 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

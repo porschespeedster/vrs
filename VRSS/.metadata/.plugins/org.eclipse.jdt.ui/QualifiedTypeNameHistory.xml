@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.cognizant.vrsutility.CitiesWithDistance"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.cognizant.vrsutility.FuelType"/>
+<fullyQualifiedTypeName name="javax.naming.ldap.StartTlsResponse"/>
+<fullyQualifiedTypeName name="com.cognizant.vrsutility.VehicleCategory"/>
+<fullyQualifiedTypeName name="com.cognizant.vrsutility.Cities"/>
+<fullyQualifiedTypeName name="com.cognizant.vrsutility.VehicleType"/>
+</qualifiedTypeNameHistroy>

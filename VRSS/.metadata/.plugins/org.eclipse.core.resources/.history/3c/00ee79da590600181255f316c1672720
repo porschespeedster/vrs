@@ -1,0 +1,76 @@
+package com.cognizant.vrsutility;
+
+import java.util.Map;
+
+import javax.naming.ldap.StartTlsResponse;
+
+public class VehicleRentalSystem {
+	
+	//private Vehicle vehicle;
+	//private TripDetails tripDetails;
+	double totalExpenses = 0.0;	
+	//double standardRate = 9.0;
+	double tripDistance;
+	//private Cities originCity;
+	//private Cities destinationCity;
+	
+	
+
+	/*public VehicleRentalSystem(Vehicle vehicle, TripDetails tripDetails) {
+		super();
+		this.vehicle = vehicle;
+		this.tripDetails = tripDetails;
+	}*/
+
+
+
+	public double calculateExpenses(Vehicle vehicle, TripDetails tripDetails) {
+		
+		//originCity = tripDetails.getOriginCity();
+		//destinationCity = tripDetails.getDestinationCity();
+		
+		/*if(vehicle.getFuelType() == FuelType.DIESEL) {
+			standardRate -=1;
+			if(vehicle.getVehicleCategory() == VehicleCategory.AC) {
+				standardRate += 2;
+			}
+		}*/
+		
+		totalExpenses += Rates.STANDARD.getRate();
+		
+		totalExpenses += vehicle.getFuelType().getStandardRate();
+		totalExpenses += vehicle.getVehicleCategory().getStandardRate();
+		
+		
+		//tripDistance = tripDetails.calculateDistance(originCity, destinationCity);
+		tripDistance = CitiesWithDistance.calculateDistance(tripDetails.getOriginCity(), tripDetails.getDestinationCity());
+		
+		if(tripDetails.getNumberOfPassengers() > vehicle.getSittingCapacity()) {
+			totalExpenses += (tripDetails.getNumberOfPassengers() - vehicle.getSittingCapacity())*Rates.EXTRAPASSENGERS.getRate();
+		}
+		
+		totalExpenses = tripDistance*totalExpenses;
+		totalExpenses += tripDetails.getTollCharges();
+		
+		if(vehicle.getVehicleType() == VehicleType.BUS) {
+			totalExpenses = this.applyDiscount(totalExpenses);
+		}		
+			
+		
+		return totalExpenses;
+	}
+	
+	/*public double calculateDistance(Cities originCity, Cities destinationCity) {
+		Map<Cities,Double> cityWithDistance = CitiesWithDistance.getCityDistances();
+		return cityWithDistance.get(originCity)+cityWithDistance.get(destinationCity);
+	}*/
+	
+	public double applyDiscount(double totalExpenses) {
+		
+		double discount = (totalExpenses*2)/100;
+		
+		return totalExpenses-=discount;
+		
+	}
+
+}
